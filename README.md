@@ -25,19 +25,12 @@ This dataset consists of the following files:
 
     1.Merging all the given datasets ( credits.csv, keywords.csv, links.csv,links_small.csv,movies_metadata.csv,ratings_small.csv)
       credits and keywords, credits and movies_metadata on id
-
                 ● credits and keywords, credits and movies_metadata on id
-                
                 ● ratings_small and links on movieId
-                
                 ● links and credits on tmdbId
     
-    
-
-
     2.Data cleaning
                ● Exploratory Data Analysis (Data Visualisations)
-
                ● Data Preprocessing
 
     3.Save the Dataframe as csv file which will be used in Popularity, Content, Collaborative Based Recommendation systems
@@ -45,9 +38,7 @@ This dataset consists of the following files:
     4.Model Building
 
                 ● Weighted Rating for Popularity based Recommendation systems
-
                 ● TF-IDF (term frequency - inverse document frequency) for Content Based Recommendation system
-
                 ● KNN (K Nearest Neighbors) for Collaborative Based Recommendation system
 
    # After analysing each model's pros and cons , we thought collaborative recommendation system is better overall !
@@ -58,8 +49,9 @@ This dataset consists of the following files:
 
    # To see the interface of the app
   **Like how it looked like in laptop and mobile resolutions**
-  
-   + Go to Collaborative based recommendation Deployment video file
+   [https://komalreddy3-movierecommendationsystem-about-uy3xq4.streamlit.app/](url)
+
+
    
    
 
