@@ -18,6 +18,7 @@ This dataset consists of the following files:
 **links_small.csv:** Contains the TMDB and IMDB IDs of a small subset of 9,000 movies of the Full Dataset.
 
 **ratings_small.csv:** The subset of 100,000 ratings from 700 users on 9,000 movies.
+
 Project Plan
     1.Merging all the given datasets ( credits.csv, keywords.csv, links.csv,links_small.csv,movies_metadata.csv,ratings_small.csv)
 
@@ -25,7 +26,7 @@ Project Plan
 
       ○ ratings_small and links on movieId
 
-        ○ links and credits on tmdbId
+      ○ links and credits on tmdbId
 
     2.Data cleaning
     ● Exploratory Data Analysis (Data Visualisations)
