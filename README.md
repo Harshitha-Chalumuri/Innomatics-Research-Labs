@@ -25,32 +25,28 @@ This dataset consists of the following files:
       credits and keywords, credits and movies_metadata on id
 
                 ● credits and keywords, credits and movies_metadata on id
+                
                 ● ratings_small and links on movieId
+                
                 ● links and credits on tmdbId
     
     
-    1.Merging all the given datasets ( credits.csv, keywords.csv, links.csv,links_small.csv,movies_metadata.csv,ratings_small.csv)
 
-      ○ credits and keywords, credits and movies_metadata on id
-
-      ○ ratings_small and links on movieId
-
-      ○ links and credits on tmdbId
 
     2.Data cleaning
-    ● Exploratory Data Analysis (Data Visualisations)
+               ● Exploratory Data Analysis (Data Visualisations)
 
-    ● Data Preprocessing
+               ● Data Preprocessing
 
     3.Save the Dataframe as csv file which will be used in Popularity, Content, Collaborative Based Recommendation systems
 
     4.Model Building
 
-    ○ Weighted Rating for Popularity based Recommendation systems
+                ● Weighted Rating for Popularity based Recommendation systems
 
-    ○ TF-IDF (term frequency - inverse document frequency) for Content Based Recommendation system
+                ● TF-IDF (term frequency - inverse document frequency) for Content Based Recommendation system
 
-    ○ KNN (K Nearest Neighbors) for Collaborative Based Recommendation system
+                ● KNN (K Nearest Neighbors) for Collaborative Based Recommendation system
 
    # After analysing each model's pros and cons , we thought collaborative recommendation system is better overall !
     
@@ -59,10 +55,10 @@ This dataset consists of the following files:
     6.Deployment using Streamlit where we have to select or type the movie accordingly to render output on screen
 
    # To see the interface of the app
-   ## Like how it looked like in laptop and mobile resolutions
+  **Like how it looked like in laptop and mobile resolutions**
+  
    + Go to Collaborative based recommendation Deployment video file
-   + Click On this to the see interface of the app recorded in mp4 files
-
+   
    
 
 #ratings_small.csv  file https://drive.google.com/file/d/1iVLrueR2ASlrPaqwJ5DJ-Ib5O6O6x9Iv/view?usp=sharing
