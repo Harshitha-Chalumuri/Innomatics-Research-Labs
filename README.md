@@ -49,11 +49,17 @@ This dataset consists of the following files:
 
    # To see the interface of the app
   **Like how it looked like in laptop and mobile resolutions**
+
+
+  
    [https://komalreddy3-movierecommendationsystem-about-uy3xq4.streamlit.app/](url)
 
 
    
    
+
+
+
 
 #ratings_small.csv  file https://drive.google.com/file/d/1iVLrueR2ASlrPaqwJ5DJ-Ib5O6O6x9Iv/view?usp=sharing
 #links.csv file: https://drive.google.com/file/d/1C2H-jn9dpOEpOy3e9qtvySOA-z2UH2Ah/view?usp=sharing 
