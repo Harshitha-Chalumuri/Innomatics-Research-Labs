@@ -19,7 +19,11 @@ This dataset consists of the following files:
 
 **ratings_small.csv:** The subset of 100,000 ratings from 700 users on 9,000 movies.
 
-Project Plan
+**Project Plan**
+    1.Merging all the given datasets ( credits.csv, keywords.csv, links.csv,links_small.csv,movies_metadata.csv,ratings_small.csv)
+      + credits and keywords, credits and movies_metadata on id
+    
+    
     1.Merging all the given datasets ( credits.csv, keywords.csv, links.csv,links_small.csv,movies_metadata.csv,ratings_small.csv)
 
       ○ credits and keywords, credits and movies_metadata on id
